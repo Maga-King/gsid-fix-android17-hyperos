@@ -3,7 +3,7 @@
 修复安卓17澎湃在未加密 `/data` 上安装 DSU 时的镜像映射问题。
 基于 [stelios333/gsid-fix-magisk](https://github.com/stelios333/gsid-fix-magisk) 适配。
 
-**[下载安装包](https://github.com/Maga-King/gsid-fix-android17-hyperos/releases/latest)** · [完整说明与构建方法](README-Android17.md)
+**[下载安装包](https://github.com/Maga-King/gsid-fix-android17-hyperos/releases/tag/v17.1-local)** · [完整说明与构建方法](README-Android17.md)
 
 - 使用实测固件的 Android 17 原生 GSID，仅补回内部存储单文件镜像的 loop 映射分支。
 - 开机完成后才挂载，保留系统原版 GSID 的早期启动流程；停用模块并重启即可恢复。
