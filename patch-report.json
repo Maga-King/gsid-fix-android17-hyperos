@@ -1,0 +1,8 @@
+{
+  "source_sha256": "7dd2a8fb91af345d6e7b8cdb2ea4f64f583421d16041af212abdbc7d06f574ea",
+  "output_sha256": "a1dfbbd536b97c936344048b45ffa9da8e728f86e7fc249a04b9f505e76a8f48",
+  "patch_offset": "0x6ad78",
+  "payload_address": "0xd8000",
+  "payload_size": 2888,
+  "note": "No Android/firmware install whitelist. The build checks the target instructions."
+}

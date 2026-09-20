@@ -1,3 +1,6 @@
-# GSID Fix v1.5
- - Added checks for Android version and CPU architecture.
- - Updated build script.
+# GSID Fix v17.1-local - 安卓17澎湃（HyperOS）
+
+- 基于 OS4.0.0.37.XBLCNXM 的 Android 17 原生 GSID 恢复未加密内部存储的 loop 映射。
+- 开机完成后才挂载；提供本次开机回退脚本，不添加 Android 版本或固件白名单。
+- 实测 64 MiB 镜像创建、映射、读写、落盘、重映射、删除及模块激活/回退通过。
+- 完整 GSI 安装和启动尚未验证；不支持外置存储及多片镜像。

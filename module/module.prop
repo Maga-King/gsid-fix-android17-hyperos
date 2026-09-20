@@ -1,9 +1,6 @@
 id=GSIDFix
-name=GSID Fix
-version=v1.5
-versionCode=15000
-author=stelios333
-description=Restores DSU functionality in devices with unencrypted /data.
-template=3
-updateJson=https://raw.githubusercontent.com/stelios333/gsid-fix-magisk/refs/heads/main/update.json
-
+name=GSID Fix - 安卓17澎湃
+version=v17.1-local
+versionCode=170100
+author=stelios333 (original project), local Android 17 adaptation
+description=安卓17澎湃（HyperOS）适配：修复未加密 /data 的 DSU 镜像映射，开机完成后生效，不加版本白名单。实测 OS4.0.0.37.XBLCNXM。

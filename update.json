@@ -1,6 +1,6 @@
 {
-  "version": "v1.5",
-  "versionCode": 15000,
-  "zipUrl": "https://github.com/stelios333/gsid-fix-magisk/releases/download/v1.5/gsid-fix-magisk-1.5.zip",
-  "changelog": "https://raw.githubusercontent.com/stelios333/gsid-fix-magisk/refs/heads/main/changelog.md"
+  "version": "v17.1-local",
+  "versionCode": 170100,
+  "zipUrl": "https://github.com/Maga-King/gsid-fix-android17-hyperos/releases/download/v17.1-local/GSID-Fix-Android17-HyperOS-v17.1-local.zip",
+  "changelog": "https://raw.githubusercontent.com/Maga-King/gsid-fix-android17-hyperos/main/changelog.md"
 }

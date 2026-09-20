@@ -1,1 +1,9 @@
 gsid-fix-magisk-*.zip
+GSID-Fix-Android17-*.zip
+GSID-Fix-Android17-*.zip.sha256
+build/
+evidence/
+reference/
+aosp-system-core/
+__pycache__/
+.venv/
